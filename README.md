@@ -1,1 +1,1 @@
-Social media app -linkedin
+Social media app - linkedin
